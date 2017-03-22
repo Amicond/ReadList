@@ -1,6 +1,8 @@
 ## Imporatnat people
 1. [David Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Publications.html)
-1. []
+1. [Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/)
+1. [Andrew Ng](http://www.andrewng.org/publications/)
+1. []()
 
 ## General Lists
 1. [Distil](https://openai.com/blog/Distill/)
