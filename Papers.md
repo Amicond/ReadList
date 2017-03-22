@@ -5,6 +5,7 @@
 ## General Lists
 1. [Distil](https://openai.com/blog/Distill/)
 1. [Machine Learning Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0#.9ulf8i95y)
+1. [Сборник Материалов](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie/blob/master/README.md)
 
 
 ## Interesting papers 
