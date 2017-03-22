@@ -25,12 +25,15 @@
 
 ### Tutorials
 1. [A Kaggle Master Explains Gradient Boosting 23.01.2017](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/?utm_source=Mailing+list&utm_campaign=1283010c27-Kaggle_Newsletter_03-01-2017&utm_medium=email&utm_term=0_f42f9df1e1-1283010c27-399152453)
+1. [Введение в участие в соревнованиях по анализу данных на платформе Kaggle](https://habrahabr.ru/post/323938/)
 
 
 ## Interview
 ### DataScience
 1. [Interview questions for data scientists. 14.03.2017](https://shapescience.xyz/blog/interview-questions-for-data-scientists/)
 1. [41 Essential Machine Learning Interview Questions (with answers)](https://www.springboard.com/blog/machine-learning-interview-questions/)
+1. [The 10 Algorithms Machine Learning Engineers Need to Know](http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html/2)
+1. [40 Interview Questions asked at Startups in Machine Learning / Data Science](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 ## Stereogram Project
 ### General Theory
