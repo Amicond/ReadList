@@ -14,6 +14,10 @@
 
 ### Reinforcement Learning
 1. [Berkeley course. Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
+1. [YandexDataShool. Reinforcement Learning](https://github.com/yandexdataschool/Practical_RL/tree/master/)
+
+### DataScience
+1. [OpenDataScience course](OpenDataScience.md)
 
 ### Tutorials
 1. [Face Recognition](https://habrahabr.ru/post/317798/)
