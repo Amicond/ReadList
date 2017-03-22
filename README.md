@@ -6,10 +6,11 @@
 1. [Байесовские методы машинного обучения](http://www.machinelearning.ru/wiki/index.php?title=Бммо)  
 1. [Спец. сменинар БММО](https://docs.google.com/document/d/1rfsmOIWl6vo9lt2Zr9ZwkIvDyO94ZngqcNoVm24pKac/edit#)
 1. [Bayesian Methods in Machine Learning](http://www.cse.wustl.edu/~garnett/cse515t/spring_2017/)
-     #### Books
+     Books
      * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/020217.pdf)
 1. [Statistical Learning. Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 1. [Probability and Statistics. Satnford](https://lagunita.stanford.edu/courses/OLI/ProbStat/Open/about)
+1. [Berkeley Statistics](https://github.com/berkeley-stat238/stat238-fall-2016)
 
 ### Reinforcement Learning
 1. [Berkeley course. Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
