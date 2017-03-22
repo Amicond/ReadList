@@ -15,6 +15,8 @@
 ### Reinforcement Learning
 1. [Berkeley course. Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
 1. [YandexDataShool. Reinforcement Learning](https://github.com/yandexdataschool/Practical_RL/tree/master/)
+     *[Cross Entropy](http://www.aaai.org/Papers/ICML/2003/ICML03-068.pdf)
+     
 
 ### DataScience
 1. [OpenDataScience course](OpenDataScience.md)
