@@ -9,8 +9,23 @@
 2. Спец. сменинар БММО
          https://docs.google.com/document/d/1rfsmOIWl6vo9lt2Zr9ZwkIvDyO94ZngqcNoVm24pKac/edit#
          
+         
+### Reinforcement Learning
 
+1. Berkeley course. Spring 2017
+         http://rll.berkeley.edu/deeprlcourse/
 
+### Tutorials
+
+1. Face Recognition
+         https://habrahabr.ru/post/317798/
+
+## Contests
+
+### ML
+
+1. ML Boot Camp. Контесты по машинному обучению и анализу данных!
+         http://mlbootcamp.ru/article/tutorial/
 
 ## Stereogram Project
 ### General Theory
