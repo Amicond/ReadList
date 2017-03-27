@@ -16,8 +16,9 @@
 1. [Berkeley course. Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
 1. [YandexDataShool. Reinforcement Learning](https://github.com/yandexdataschool/Practical_RL/tree/master/)
      *[Cross Entropy](http://www.aaai.org/Papers/ICML/2003/ICML03-068.pdf)
-     
 
+### DL
+1. [CS 20SI: Tensorflow for Deep Learning Research. Stanford 2017](http://web.stanford.edu/class/cs20si/syllabus.html)
 ### DataScience
 1. [OpenDataScience course](OpenDataScience.md)
 
