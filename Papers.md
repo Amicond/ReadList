@@ -19,3 +19,9 @@
 
 ## Interesting Articles from Magazines
 1. [2017.03.22 AI Software Learns to Make AI Software](https://www.technologyreview.com/s/603381/ai-software-learns-to-make-ai-software/)
+
+## Adversarial images
+### Attacks
+1. [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/pdf/1602.02697.pdf)  
+1. [DeepFool: a simple and accurate method to fool deep neural networks](https://arxiv.org/pdf/1511.04599.pdf)
+1. [Delving into transfarable adversarial examples and Black-Box Attacks](https://arxiv.org/pdf/1611.02770.pdf)
