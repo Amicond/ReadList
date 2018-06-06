@@ -26,6 +26,7 @@
 1. [DeepFool: a simple and accurate method to fool deep neural networks](https://arxiv.org/pdf/1511.04599.pdf)
 1. [Delving into transfarable adversarial examples and Black-Box Attacks](https://arxiv.org/pdf/1611.02770.pdf)
 
+# Courses and introductions
 ## Courses
 ### RL
 1. [Practical RL](https://www.coursera.org/learn/practical-rl)
@@ -35,5 +36,25 @@
 
 ### DL
 1. [NN by Hinton](https://www.coursera.org/learn/neural-networks)
+1. [Fast.ai part 2](http://course.fast.ai/part2.html)
+
 ### General ML
 1. [Math for ML](https://mml-book.github.io)
+
+### General skills 
+1. [Parallel Computing](https://sites.google.com/lbl.gov/cs267-spr2018/)
+
+## Different materials
+### RL
+1. [Metalearning](From zero to research — An introduction to Meta-learning)
+1. [Specification gaming examples in AI - master list](https://docs.google.com/spreadsheets/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml)
+### General ML
+1. [Blog of A.Dyakonov](https://alexanderdyakonov.wordpress.com)
+
+# Conferences
+## RL
+1. [RLDM](http://rldm.org)
+
+# Research experience and career advises
+1. [Lessons from My First Two Years of AI Research](http://web.mit.edu/tslvr/www/lessons_two_years.html)
+1. [You and your job](https://habr.com/post/209100/)
