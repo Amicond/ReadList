@@ -25,3 +25,15 @@
 1. [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/pdf/1602.02697.pdf)  
 1. [DeepFool: a simple and accurate method to fool deep neural networks](https://arxiv.org/pdf/1511.04599.pdf)
 1. [Delving into transfarable adversarial examples and Black-Box Attacks](https://arxiv.org/pdf/1611.02770.pdf)
+
+## Courses
+### RL
+1. [Practical RL](https://www.coursera.org/learn/practical-rl)
+1. [RL in finance](https://www.coursera.org/specializations/machine-learning-reinforcement-finance)
+1. [RL. Videous by Ruslan Satakhutdinov](https://www.bilibili.com/video/av18865689/)
+1. [RL. Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/) and [videos](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
+
+### DL
+1. [NN by Hinton](https://www.coursera.org/learn/neural-networks)
+### General ML
+1. [Math for ML](https://mml-book.github.io)
