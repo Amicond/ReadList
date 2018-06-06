@@ -48,6 +48,7 @@
 ### RL
 1. [Metalearning](From zero to research — An introduction to Meta-learning)
 1. [Specification gaming examples in AI - master list](https://docs.google.com/spreadsheets/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml)
+1. [TDM: From Model-Free to Model-Based Deep Reinforcement Learning](http://bair.berkeley.edu/blog/2018/04/26/tdm/)
 ### General ML
 1. [Blog of A.Dyakonov](https://alexanderdyakonov.wordpress.com)
 
@@ -55,6 +56,10 @@
 ## RL
 1. [RLDM](http://rldm.org)
 
+# RL Contests and Environments
+1. [Gym multiagent-competition](https://github.com/openai/multiagent-competition/blob/master/gym-compete/gym_compete/new_envs/multi_monitoring.py)
+
 # Research experience and career advises
 1. [Lessons from My First Two Years of AI Research](http://web.mit.edu/tslvr/www/lessons_two_years.html)
 1. [You and your job](https://habr.com/post/209100/)
+
