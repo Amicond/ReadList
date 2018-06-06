@@ -57,7 +57,9 @@
 1. [RLDM](http://rldm.org)
 
 # RL Contests and Environments
+1. [Pommeran](https://www.pommerman.com)
 1. [Gym multiagent-competition](https://github.com/openai/multiagent-competition/blob/master/gym-compete/gym_compete/new_envs/multi_monitoring.py)
+1. [Multi-Agent Particle Environment](https://github.com/openai/multiagent-particle-envs)
 
 # Research experience and career advises
 1. [Lessons from My First Two Years of AI Research](http://web.mit.edu/tslvr/www/lessons_two_years.html)
