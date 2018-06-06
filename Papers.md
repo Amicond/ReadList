@@ -61,7 +61,9 @@
 1. [Gym multiagent-competition](https://github.com/openai/multiagent-competition/blob/master/gym-compete/gym_compete/new_envs/multi_monitoring.py)
 1. [Multi-Agent Particle Environment](https://github.com/openai/multiagent-particle-envs)
 
-# Research experience and career advises
+# Jobs 
+## Research experience and career advises
 1. [Lessons from My First Two Years of AI Research](http://web.mit.edu/tslvr/www/lessons_two_years.html)
 1. [You and your job](https://habr.com/post/209100/)
-
+## Intervies
+1. [The Most Comprehensive Data Science & Machine Learning Interview Guide You’ll Ever Need](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/)
